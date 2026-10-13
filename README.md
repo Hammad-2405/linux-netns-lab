@@ -58,7 +58,3 @@ sudo ip netns delete hostA
 sudo ip netns delete router
 sudo ip netns delete hostB
 ```
-
-## What I learned
-
-<!-- Write 3–4 bullets in your own words. For example: what surprised you about conntrack, why the hosts need explicit routes, what happened before you enabled ip_forward, how you debugged a failing ping. -->
